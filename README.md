@@ -7,7 +7,7 @@
 - **streamlines complex instructions** to provide back a request from a server
 - provides **efficiencies over using static data downloads** (e.g. CSV):
 	- working with **rapidly changing data**
-    - working with **data from which you only want a small chunk**
+	- working with **data from which you only want a small chunk**
 
 • **API data**:
 - **gathering** data:
